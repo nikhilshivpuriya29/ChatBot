@@ -5,7 +5,6 @@ streamlit==1.18.1
 openai==0.27.6
 pypdf
 sentence_transformers
-replicate
 replicate ==0.11.0
 faiss-cpu==1.7.4
 streamlit_chat
